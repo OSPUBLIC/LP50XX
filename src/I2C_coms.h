@@ -17,7 +17,7 @@ extern "C"
 /** @brief i2c_init() definition.\n
  * 
  */
-int8_t i2c_init();
+//int8_t i2c_init();
 
 /** @brief i2c_write_multi() definition.\n
  * To be implemented by the developer
