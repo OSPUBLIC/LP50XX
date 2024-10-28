@@ -64,7 +64,7 @@ LP50XX::LP50XX(LED_Configuration ledConfiguration, uint8_t enablePin) {
  * @param i2cAddress The I2C address of the device
  */
 void LP50XX::Begin(uint8_t i2cAddress) {
-    i2c_init();
+    //i2c_init();
     _i2c_address = i2cAddress;
 
     if (_enable_pin != 0xFF) {
