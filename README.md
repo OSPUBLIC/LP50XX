@@ -1,3 +1,5 @@
+EXCLUDED i2c_init AND REPLACED Wire. WITH Wire1. ...
+
 # LP50XX
 
 [![Arduino Lint](https://github.com/rneurink/LP50XX/actions/workflows/arduino-lint.yml/badge.svg?branch=master)](https://github.com/rneurink/LP50XX/actions/workflows/arduino-lint.yml)[![Compile Examples](https://github.com/rneurink/LP50XX/actions/workflows/compile-examples.yml/badge.svg?branch=master)](https://github.com/rneurink/LP50XX/actions/workflows/compile-examples.yml)
